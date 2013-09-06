@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ioBridge</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_graph">Graph</string>
+    <string name="title_activity_bmi_index">BmiIndex</string>
+    <string name="title_activity_live_graph">LiveGraph</string>
+    <string name="title_activity_results">Results</string>
+    <string name="title_activity_hospitals">Hospitals</string>
+
+</resources>
